@@ -6,6 +6,9 @@
     <img src="https://komarev.com/ghpvc/?username=404mqs" alt="Profile Views Count">
   </p>
   <p align="center">
+<img src="https://discord.com/api/guilds/810007530750345237/widget.png?style=banner2" alt="ExoPlugins"/>
+  </p>
+  <p align="center">
    <b><a href="https://discord.gg/8N84Jg2DQY">Join my Discord Server!</a></b>
   </p>
 <p align="center">
