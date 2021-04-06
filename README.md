@@ -12,7 +12,7 @@
    <b><a href="https://discord.gg/8N84Jg2DQY">Discord Server</a></b>
   </p>
  <p align="center"> 
-  <img src="https://pa1.narvii.com/6347/8fd40815a6c23781f19385a66f9eee3a443de602_hq.gif" />
+  <img src="https://static.wikia.nocookie.net/minecraft_es_gamepedia/images/e/ef/Pico_de_diamante_encantado.gif/revision/latest/scale-to-width-down/120?cb=20200714160819" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bennitenni111/Bennitenni111/main/rainbowline.gif" />
