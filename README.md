@@ -11,8 +11,8 @@
   <p align="center">
    <b><a href="https://discord.gg/8N84Jg2DQY">Discord Server</a></b>
   </p>
- <p align="center">
-  <img src="https://i.gifer.com/Xysd.gif" />
+ <p align="center"> 
+  <img src="https://pa1.narvii.com/6347/8fd40815a6c23781f19385a66f9eee3a443de602_hq.gif" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bennitenni111/Bennitenni111/main/rainbowline.gif" />
