@@ -12,7 +12,7 @@
    <b><a href="https://discord.gg/8N84Jg2DQY">Discord Server</a></b>
   </p>
  <p align="center">
-  <img src="https://pa1.narvii.com/6956/6c23de0b872e3fec4a8ae9324c7dbfe95daa20f8r1-320-320_hq.gif" />
+  <img src="https://i.gifer.com/5Mz4.gif" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bennitenni111/Bennitenni111/main/rainbowline.gif" />
