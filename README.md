@@ -1,5 +1,5 @@
 
-
+<p align="center">
    <b><a href="https://discord.gg/8N84Jg2DQY">Discord Server</a></b>
   </p>
   <p align="center">
