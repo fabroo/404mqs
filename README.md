@@ -4,8 +4,12 @@
 
 <p align="center">
   <a href="https://discord.com/users/404802417629331466" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a> 
+</p>
+
+<p align="center">
 <a href="https://discord.gg/8N84Jg2DQY" target"blank_"><img src="https://discord.com/api/guilds/810007530750345237/widget.png?style=banner2"></a>   
 </p>
+
 <h3 align="center">Languages:<h3>
 <p align="center">
 <img align="center" alt="C#" width="65px" src="https://www.pinclipart.com/picdir/big/124-1248748_free-western-clip-art.png">
